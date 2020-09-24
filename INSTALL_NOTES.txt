@@ -1,0 +1,17 @@
+# install rbenv for specific local ruby version
+brew install rbenv
+rbenv init
+source ~/.bash_profile
+
+curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-doctor | bash
+# if necessary:
+# nano ~/.bash_profile
+# > export PATH=~/.rbenv/shims:$PATH
+
+# rbenv install -l
+rbenv install 2.4.1
+
+# if rbenv is already installed:
+rbenv version
+rbenv local 2.4.1
+gem install jekyll

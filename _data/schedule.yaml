@@ -1,0 +1,78 @@
+lectures:
+  - date: 2020-10-26    
+    type: 
+    content:
+    - xtitle: Introductions
+      xslides: lectures/01_Introduction.pdf
+    reading: 
+    - optional: True,
+      title: "Deep Learning Book - Part I: Applied Math and Machine Learning Basics"
+      url: http://www.deeplearningbook.org/
+    objectives:
+      - establish learning environment (active participation etc.)
+      - reflect on personal goals, motivation and (prior) knowledge
+      - make course goals explicit (and link them to personal goals)
+      - anchor course topic within broader scope of machine learning and deep learning         
+    activities: 
+      - "general classroom setup: circle of chairs / round table"
+      - "15min introductions: get to know each other (name, study background, semester etc.)"  
+      - "15min explain course rationale, (global) learning objectives, grading mode,
+        establish/sign 'class contract' (signing can be done offline, bring to next class)"
+      - "5min assign class documenter role for today 
+        (takes photos for short course blog entry and does 3min-recap in next lesson, rotates each time),
+        if < 15 students, instructor takes this role for 1st class,
+        documenters for remaining classes will be determined by doodle poll"
+      - 5min explain learner blogs (example)
+      - "20min collect expectations and prior experiences 
+        (option: ball joint with cross-disciplinary pairs: 3 steps, 5min each),
+        5min for taking notes afterwards,
+        homework: write this down in learner blog"
+      - "15min group work: active structuring of ML topics (given topics, mixed groups)"
+      - "15min topic map (together), can optionally moved to next class"
+    note: "TODO: more links to online lectures/talks on basics"
+
+  - date: 2020-11-02
+    type: 
+    content:
+    - title: MLPs, Gradient Descent & Backpropagation
+      slides: 
+    reading: 
+    - title: "Deep Learning Book - Chapter 6: Deep Feedforward Networks"
+      url: http://www.deeplearningbook.org/contents/mlp.html
+    assignment:
+        - xlabel: "First Steps"
+          xlink: ass1.html
+          objectives:
+            - "Get your feet wet!"
+          activities: 
+            - set up server accounts
+            - learn to use the development environment
+            - work through the intro tutorials for Theano and/or Tensorflow as well as Jupyter
+    objectives:
+      - "understand and be able to explain fundamental and crucial principles of deep learning 
+      (MLP, forward/backward propagation and gradient descent)"
+    
+    activities: 
+      - "3-minute recap 'Last episode of...' (pictures of active structuring results and topic map)"
+      - 30min answering questions / discussion of MLP chapter,  
+      - "15min in pairs: explain each other how learning with gradient descent and backpropagation 
+      in a simple feedforward MLP works (option draw sketches)"
+      - 10min answering questions from pairs
+      - "20-30min demo/intro of the deep learning frameworks (preferably by students who have used them already, 
+        These students will not have much to do anyway to prepare for this lecture and during assignment 1.)"
+
+    note: Most of this lecture should be known from basic machine learning courses.
+
+
+  - date: 2020-11-09
+    type:
+    content:
+    - title: CNNs
+      slides: 
+    reading:
+    - title: "Deep Learning Book - Chapter 9: Convolutional Networks, Sections 9.1 to 9.5"
+      url: http://www.deeplearningbook.org/contents/convnets.html
+    type: 
+    assignment:
+      - xlabel: "TensorBoard & tf.data"
+        xlink: ass2.html

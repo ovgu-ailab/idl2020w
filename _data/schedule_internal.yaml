@@ -1,0 +1,170 @@
+lectures:
+  - date: 2019-10-14
+    type: 
+    content:
+    - title: Introductions
+      slides: lectures/01_Introduction.pdf
+    reading: 
+    - optional: True,
+      title: "Deep Learning Book - Part I: Applied Math and Machine Learning Basics"
+      url: http://www.deeplearningbook.org/
+
+
+  - date: 2019-10-21
+    type: 
+    content:
+    - title: MLPs, Gradient Descent & Backpropagation
+      slides: 
+    reading: 
+    - title: "Deep Learning Book - Chapter 6: Deep Feedforward Networks"
+      url: http://www.deeplearningbook.org/contents/mlp.html
+    assignment:
+        - label: Prerequisites? Whatever Andreas wants to do =)
+          link:
+  
+
+  - date: 2019-10-28
+    type:
+    content:
+    - title: CNNs
+      slides: 
+    reading:
+    - title: "Deep Learning Book - Chapter 9: Convolutional Networks, Sections 9.1 to 9.5"
+      url: http://www.deeplearningbook.org/contents/convnets.html
+    type: 
+    assignment:
+        - label: Discuss 1st assignment (TF intro, low-level MLP)
+          link: ass1.html
+
+
+  - date: 2019-11-04
+    type:
+    content:
+    - title: CNNs (cont.) (Andreas!)
+      slides: 
+    reading:
+    - title: Reading Assignment (continued)
+      url: reading3+4.html
+    type: 
+    assignment:
+        - label: 2nd assignment (tensorboard/visualizations, tf.data)
+          link: ass2.html
+
+
+  - date: 2019-11-11
+    type:
+    content:
+    - title: RNNs
+      slides: 
+    reading:
+    - title: "Deep Learning Book - Chapter 10: Sequence Modeling: Recurrent and Recursive Nets, Sections 10.1 to 10.5"
+      url: http://www.deeplearningbook.org/contents/rnn.html
+    type: 
+    assignment:
+        - label: 3rd assignment (CNN, Keras)
+          link: ass3.html
+
+
+  - date: 2019-11-18
+    type:
+    content:
+    - title: RNNs (cont.)
+      slides: 
+    reading:
+    - title: "Deep Learning Book - Chapter 10: Sequence Modeling: Recurrent and Recursive Nets, Sections 10.6, 10.7 and 10.10 to 10.12"
+      url: http://www.deeplearningbook.org/contents/rnn.html
+    type: 
+    assignment:
+        - label: 4th assignment (currently tf.function & 'assorted programming puzzles')
+          link: ass4.html
+
+  - date: 2019-11-25
+    type:
+    content:
+    - title: Attention and Memory
+      slides: 
+    reading:
+    - title: Reading Assignment
+      url: reading7.html
+    type:
+    assignment:
+      - label: 5th assignment (currently object detection API; would propose low-level RNNs instead)
+        link: ass5.html
+
+  - date: 2019-12-02
+    type:
+    content:
+    - title: Regularization
+      slides: 
+    reading:
+    - title: "Deep Learning Book - Chapter 7: Regularization"
+      url: http://www.deeplearningbook.org/contents/regularization.html
+    type:
+    assignment:
+        - label: Discuss 6th assignment (advanced RNNs, padding, masking etc.)
+          link: ass6.html
+
+  - date: 2019-12-09
+    type:
+    content:
+    - title: Optimization
+      slides: 
+    reading:
+    - title: "Deep Learning Book - Chapter 8: Optimization (except Section 8.6)"
+      url: http://www.deeplearningbook.org/contents/optimization.html
+    type:
+    assignment:
+        - label: Currently no assignment; could do attn/memory
+          link:
+
+  - date: 2019-12-16
+    type:
+    content:
+    - title: Practical Methodology
+      slides: 
+    reading:
+    - title: "Deep Learning Book - Chapter 11: Practical Methodology"
+      url: http://www.deeplearningbook.org/contents/guidelines.html
+    type:
+    assignment:
+        - label: Currently no assignment; could do regularization
+          link:
+
+  - date: 2020-01-13
+    type:
+    content:
+    - title: Autoencoders
+      slides: 
+    reading:
+    - title: "Deep Learning Book - Chapter 14: Autoencoders"
+      url: http://www.deeplearningbook.org/contents/autoencoders.html
+    type:
+    assignment:
+        - label: Currently no assignment; could do optimization
+          link:
+
+  - date: 2020-01-20
+    type:
+    content:
+    - title: Introspection
+      slides: 
+    reading:
+    - title: Reading Assignment
+      url: reading12.html
+    type:
+    assignment:
+        - label: could do "practical methodology"
+          link:
+
+  - date: 2020-01-27
+    type:
+    content:
+    - title: Model Compression & Transfer Learning
+      slides: 
+    reading:
+    - title: Reading Assignment
+      url: reading13.html
+    type:
+    assignment:
+        - label: could do autoencoders
+          link:
