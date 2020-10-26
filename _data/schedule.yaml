@@ -40,8 +40,8 @@ lectures:
     - title: "Deep Learning Book - Chapter 6: Deep Feedforward Networks"
       url: http://www.deeplearningbook.org/contents/mlp.html
     assignment:
-        - xlabel: "First Steps"
-          xlink: ass1.html
+        - label: "First Steps"
+          link: ass1.html
           objectives:
             - "Get your feet wet!"
           activities: 
