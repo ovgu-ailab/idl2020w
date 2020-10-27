@@ -57,13 +57,13 @@ If you afterwards have got further questions about the course, please contact [S
 
 <img src="figures/prerequisites.png" width="700">
 
-([Link to LSF system](https://lsf.ovgu.de) | [Link to Moodle (password: IDLWS2021 )](https://elearning.ovgu.de/course/view.php?id=8319))  
+([Link to LSF system](https://lsf.ovgu.de) | [Link to Moodle](https://elearning.ovgu.de/course/view.php?id=8319))  
 Your submitted information will be solely used for application process. It will be treated confidentially and deleted after the candidates have been selected.  
 
 
 The deadline for applications is **October 18 (23:59), 2020**. Applications arriving later will only be considered if there is still course capacity.
 
-The aim of this process is to select students that are likely to sucessfully complete the course and not drop out half way through.
+The aim of this process is to select students that are likely to successfully complete the course and not drop out half way through.
 
 
 #### Credits
@@ -86,7 +86,7 @@ Upon passing the exam (grade 4.0 and better) the certificate will be issued.
 
 #### Exam Admission Criteria
 
-In order to be admitted to the exam, you must not fail weekly assignments more than 2 times. Submissions are only successful if handed in in time and if you are able to present the solution on request during the respective exercise session.
+In order to be admitted to the exam, you must not fail weekly assignments more than 2 times. Submissions are only successful if handed in in time and if you are able to present the solution on request during the respective exercise session. 
 
 
 #### Exercises
