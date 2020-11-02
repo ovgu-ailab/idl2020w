@@ -74,5 +74,5 @@ lectures:
       url: http://www.deeplearningbook.org/contents/convnets.html
     type: 
     assignment:
-      - xlabel: "TensorBoard & tf.data"
-        xlink: ass2.html
+      - label: "TensorBoard & tf.data"
+        link: ass2.html
