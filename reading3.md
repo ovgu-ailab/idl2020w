@@ -43,7 +43,7 @@ You should be prepared to explain the most important / innovative aspects of the
 
 5. [Language Modeling with Gated Convolutional Networks (2016), Y. N. Dauphin et al.](https://arxiv.org/abs/1612.08083)
 
-6. [You only look once: Unified, real-time object detection (2016), J. Redmon et al.](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
+6. [You only look once: Unified, real-time object detection (2016), J. Redmon et al.](http://datascienceprojects.org/papers/Redmon2016.-%20YOLO.pdf)
 
 		
 ## Optional Further Reading
