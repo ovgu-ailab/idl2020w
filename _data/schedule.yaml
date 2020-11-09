@@ -89,5 +89,5 @@ lectures:
       url: reading3.html
     type: 
     assignment:
-        - xlabel: CNNs
-          xlink: ass3.html
+        - label: CNNs
+          link: ass3.html
