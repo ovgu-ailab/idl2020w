@@ -76,3 +76,18 @@ lectures:
     assignment:
       - label: "TensorBoard & tf.data"
         link: ass2.html
+
+  - date: 2020-11-16
+    type:
+    content:
+    - title: No Lecture! 
+      slides: 
+    reading:
+    - title: "Deep Learning Book - Chapter 9: Convolutional Networks, remaining sections"
+      url: http://www.deeplearningbook.org/contents/convnets.html
+    - title: Reading Assignment
+      url: reading3.html
+    type: 
+    assignment:
+        - xlabel: CNNs
+          xlink: ass3.html
