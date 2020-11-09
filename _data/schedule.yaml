@@ -80,7 +80,7 @@ lectures:
   - date: 2020-11-16
     type:
     content:
-    - title: No Lecture! 
+    - title: CNNs (cont.)
       slides: 
     reading:
     - title: "Deep Learning Book - Chapter 9: Convolutional Networks, remaining sections"
