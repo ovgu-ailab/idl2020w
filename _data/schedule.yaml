@@ -91,3 +91,16 @@ lectures:
     assignment:
         - label: CNNs
           link: ass3.html
+
+
+  - date: 2020-11-23
+    type:
+    content:
+    - title: RNNs
+      slides:
+    reading:
+    - title: "Deep Learning Book - Chapter 10: Sequence Modeling: Recurrent and Recursive Nets, Sections 10.1 to 10.5"
+      url: http://www.deeplearningbook.org/contents/rnn.html
+    assignment:
+    - xlabel: DenseNet
+      xlink: ass4.html
