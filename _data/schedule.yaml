@@ -105,7 +105,7 @@ lectures:
     - label: DenseNet
       link: ass4.html
 
-  - date: 2020-11-23
+  - date: 2020-11-30
     type:
     content:
     - title: RNNs (cont.)
