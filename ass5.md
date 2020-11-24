@@ -6,7 +6,7 @@ id: ass5
 
 
 # Assignment 5: Language Modeling & Recurrent Neural Networks
-**Deadline: November 30th, 1pm**
+**Deadline: November 30th, 11am**
 
 In this task, you will tackle the task of language modeling using RNNs.
 Language Modeling forms an important basis for most NLP applications such as
