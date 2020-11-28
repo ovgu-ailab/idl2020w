@@ -113,7 +113,38 @@ lectures:
     reading:
     - title: "Deep Learning Book - Chapter 10: Sequence Modeling: Recurrent and Recursive Nets, Sections 10.6, 10.7 and 10.10 to 10.12"
       url: http://www.deeplearningbook.org/contents/rnn.html
+      #  TODO: add CTC loss reading next year
     assignment:
     - label: RNNs
       link: ass5.html
 
+  - date: 2020-12-07
+    type:
+    content:
+    - title: Attention and Memory
+      slides:
+    reading:
+    - title: Reading Assignment
+      url: reading6.html
+    # assignment:
+    #   - label: More RNNs
+    #     link: ass6.html
+
+  # - date: 2020-12-14
+  #   type:
+  #   content:
+  #   - title: Autoencoders & Self-Supervised Learning
+  #     slides: 
+  #   reading:
+  # # Notes: DL-Book chapter 15 has a bit on RL using layer-wise pre-training, 
+  # # transfer learning and adversarial examples - i.e. limited coverage
+  # # rather not use.
+  #   - title: Reading Assignment
+  #     url: reading7.html    
+  #   type:
+  #   assignment:
+  #     - label: Attention?
+  #       link: ass7.html
+
+
+# Word Embeddings & Language Models
