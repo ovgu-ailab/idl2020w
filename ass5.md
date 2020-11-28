@@ -6,7 +6,7 @@ id: ass5
 
 
 # Assignment 5: Language Modeling & Recurrent Neural Networks
-**Deadline: November 30th, 1pm**
+**Deadline: November 30th, 11am**
 
 In this task, you will tackle the task of language modeling using RNNs.
 Language Modeling forms an important basis for most NLP applications such as
@@ -68,7 +68,7 @@ translate these into code. You can still use Keras optimizers, losses etc. as
 well as `Dense` layers if you wish.  
 You might want to proceed as follows:
 
-- Download [this helper file for preparing datasets](https://ovgu-ailab.github.io/idl2019/assignments/5/prepare_data.py).
+- Download [this helper file for preparing datasets](https://ovgu-ailab.github.io/idl2020w/assignments/5/prepare_data.py).
 It provides functions to process text files into a "TFRecords" dataset. Some
 text corpora (as well as pointers to more resources) can be found
 [here](http://cs.stanford.edu/people/karpathy/char-rnn/). The TFRecords format
