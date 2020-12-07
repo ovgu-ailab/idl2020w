@@ -126,9 +126,9 @@ lectures:
     reading:
     - title: Reading Assignment
       url: reading6.html
-    # assignment:
-    #   - label: More RNNs
-    #     link: ass6.html
+    assignment:
+    - label: More RNNs
+      link: ass6.html
 
   # - date: 2020-12-14
   #   type:
