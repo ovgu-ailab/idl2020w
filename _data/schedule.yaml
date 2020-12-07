@@ -138,9 +138,9 @@ lectures:
     reading:
     - title: Reading Assignment
       url: reading7.html
-    # assignment:
-    # - label: More RNNs
-    #   link: ass6.html
+    assignment:
+    - label: Attention-based NMT
+      link: ass7.html
 
   - date: 2020-12-21
     type:
