@@ -154,9 +154,9 @@ lectures:
     - title: Reading Assignment
       url: reading8.html
     type:
-    # assignment:
-    #   - label: Attention?
-    #     link: ass7.html
+    assignment:
+    - label: Autoencoders
+      link: ass8.html
 
 
 # General Hints
