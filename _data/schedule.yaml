@@ -158,6 +158,21 @@ lectures:
     #   - label: Attention?
     #     link: ass7.html
 
+  - date: 2021  -01-04
+    type:
+    content:
+    - title: Regularization & Optimization
+      slides: 
+    reading:
+    - title: "Deep Learning Book - Chapter 7: Regularization"
+      url: http://www.deeplearningbook.org/contents/regularization.html
+    - title: "Deep Learning Book - Chapter 8: Optimization (except Section 8.6)"
+      url: http://www.deeplearningbook.org/contents/optimization.html
+    - optional: True,
+      title: "optional reading for an introduction to predictive coding as self-supervised learning approach: Relaxing the Constraints on Predictive Coding Models"
+      url: https://arxiv.org/abs/2010.01047
+  # ++ Regularization for Deep Learning: A Taxonomy https://arxiv.org/abs/1710.10686
+    type:
 
 # General Hints
 # - https://blog.ml.cmu.edu/2020/08/31/4-overfitting/
