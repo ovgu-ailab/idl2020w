@@ -174,7 +174,7 @@ lectures:
   # ++ Regularization for Deep Learning: A Taxonomy https://arxiv.org/abs/1710.10686
 
   - date: 2021-01-11
-  type:
+    type:
     content:
     - title: Practical Methodology
       slides:
