@@ -187,6 +187,8 @@ lectures:
       url: http://mlyearning.org/
     type:
     assignment:
+    - label: Adversarial Examples
+      link: ass9.html
 
 # General Hints
 # - https://blog.ml.cmu.edu/2020/08/31/4-overfitting/
