@@ -173,6 +173,21 @@ lectures:
       url: https://arxiv.org/abs/2010.01047
   # ++ Regularization for Deep Learning: A Taxonomy https://arxiv.org/abs/1710.10686
 
+  - date: 2021-01-11
+  type:
+    content:
+    - title: Practical Methodology
+      slides:
+    reading:
+    - title: "Deep Learning Book - Chapter 11: Practical Methodology"
+      url: http://www.deeplearningbook.org/contents/guidelines.html
+    - title: "Practical Methodology Talk by Ian Goodfellow"
+      url: https://www.youtube.com/watch?v=NKiwFF_zBu4
+    - title: "Andrew Ng: Machine Learning Yearning (additional information)"
+      url: http://mlyearning.org/
+    type:
+    assignment:
+
 # General Hints
 # - https://blog.ml.cmu.edu/2020/08/31/4-overfitting/
 # - https://blog.ml.cmu.edu/category/educational/
