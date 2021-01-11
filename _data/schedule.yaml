@@ -200,6 +200,8 @@ lectures:
       url: reading11.html
     type:
     assignment:
+      - label: Practical Methodology
+        link: ass10.html
 
 # General Hints
 # - https://blog.ml.cmu.edu/2020/08/31/4-overfitting/
