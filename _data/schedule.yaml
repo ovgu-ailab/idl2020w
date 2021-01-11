@@ -162,7 +162,7 @@ lectures:
     type:
     content:
     - title: Regularization & Optimization
-      slides: 
+      slides:
     reading:
     - title: "Deep Learning Book - Chapter 7: Regularization"
       url: http://www.deeplearningbook.org/contents/regularization.html
@@ -189,6 +189,17 @@ lectures:
     assignment:
     - label: Adversarial Examples
       link: ass9.html
+
+  - date: 2021-01-18
+    type:
+    content:
+    - title: Introspection - Part I
+      slides:
+    reading:
+    - title: Reading Assignment
+      url: reading11.html
+    type:
+    assignment:
 
 # General Hints
 # - https://blog.ml.cmu.edu/2020/08/31/4-overfitting/
