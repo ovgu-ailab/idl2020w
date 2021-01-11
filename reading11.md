@@ -18,7 +18,7 @@ Now it's time to look at some specific techniques. Dig as deep as you like! Thes
 2. [LSTMVis](http://lstm.seas.harvard.edu/)
 	(code and paper are linked)
 
-3. [exBert - Visual Analysis of Transformer Models](https://exbert.net)
+3. [exBert - Visual Analysis of Transformer Models](https://exbert.net) (code and paper are linked)
 
 4. [Heatmapping](http://heatmapping.org/) - especially [Methods for Interpreting and Understanding Deep Neural Networks (2017), Montavon et al.](https://arxiv.org/abs/1706.07979)
 
