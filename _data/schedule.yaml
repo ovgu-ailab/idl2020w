@@ -213,8 +213,8 @@ lectures:
       url: reading12.html
     type:
     assignment:
-      - xlabel: Practical Methodology
-        xlink: ass10.html
+      - label: Introspection Part 1
+        link: ass11.html
 
 # General Hints
 # - https://blog.ml.cmu.edu/2020/08/31/4-overfitting/
