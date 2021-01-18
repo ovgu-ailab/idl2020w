@@ -203,6 +203,19 @@ lectures:
       - label: Practical Methodology
         link: ass10.html
 
+  - date: 2021-01-25
+    type:
+    content:
+    - title: Introspection - Part 2
+      slides:
+    reading:
+    - title: Reading Assignment
+      url: reading12.html
+    type:
+    assignment:
+      - xlabel: Practical Methodology
+        xlink: ass10.html
+
 # General Hints
 # - https://blog.ml.cmu.edu/2020/08/31/4-overfitting/
 # - https://blog.ml.cmu.edu/category/educational/

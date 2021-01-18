@@ -11,7 +11,7 @@ id: reading12
 
 1. [Sanity checks for Saliency Maps](https://arxiv.org/abs/1810.03292) - a reminder that explanations can be misleading
 
-2. [When Explanations Lie: Why Many Modified BP Attributions Fail](https://arxiv.org/abs/1912.09818) | [ICML slides](https://icml.cc/media/Slides/icml/2020/virtual(no-parent)-14-18-00UTC-5929-when_explanatio.pdf)
+2. [When Explanations Lie: Why Many Modified BP Attributions Fail](https://arxiv.org/abs/1912.09818), [ICML slides](https://icml.cc/media/Slides/icml/2020/virtual(no-parent)-14-18-00UTC-5929-when_explanatio.pdf)
 
 ## Selective Reading (i.e. pick one!)
 
