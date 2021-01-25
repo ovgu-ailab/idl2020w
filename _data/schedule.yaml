@@ -216,6 +216,20 @@ lectures:
       - label: Introspection Part 1
         link: ass11.html
 
+  - date: 2021-02-01
+    type:
+    content:
+    - title: TBD
+      slides:
+    reading:
+    - title: TBD
+      url:
+    type:
+    assignment:
+      - label: Introspection Part 2
+        link: ass12.html
+
+
 # General Hints
 # - https://blog.ml.cmu.edu/2020/08/31/4-overfitting/
 # - https://blog.ml.cmu.edu/category/educational/
